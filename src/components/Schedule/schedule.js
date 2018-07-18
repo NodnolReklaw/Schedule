@@ -1,10 +1,13 @@
 import React, { Component } from 'react';
 
+import Gradient from '../gradient';
+
 class Schedule extends Component {
-    return() {
+    render() {
         return (
             <div className="schedule">
-                <h1 className="schedule__title">Course schedule</h1>
+                <h1 className="schedule__title">Course Schedule</h1>
+                <Gradient/>
             </div>
         );
     }
