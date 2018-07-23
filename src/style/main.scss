@@ -1,5 +1,7 @@
 @import 'variables';
 @import 'library';
+@import 'libraryCourse';
+@import 'arrow';
 
 .home {
     height: 100vh;
@@ -26,3 +28,4 @@
     background: linear-gradient(120deg, $color-purple 0%, $color-light-blue 100%);
     z-index: -10;
 }
+
