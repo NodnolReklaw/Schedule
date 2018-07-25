@@ -6,7 +6,7 @@ import Icon from "../icon";
 import Arrow from "../arrow";
 import Action from "../action";
 
-import AnimateHeight from "react-animate-height";
+import AnimateHeight from 'react-animate-height';
 
 class LibraryCourse extends Component {
   constructor(props) {
